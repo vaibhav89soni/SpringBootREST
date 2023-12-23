@@ -1,0 +1,7 @@
+INDEX VERSION 1.132+C:\Users\soni8\TATAAIA\SpringTraining\.metadata\.plugins\org.eclipse.jdt.core
+2890176077.index
+3185870463.index
+1865797976.index
+2919874339.index
+2303421166.index
+1252035512.index
